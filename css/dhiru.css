@@ -1,0 +1,71 @@
+
+
+nav li  {
+ display: inline;
+	}
+
+	nav a {
+		text-decoration: none;
+	}
+
+	header {
+	background: #6396bc;
+}
+article {
+	margin-top: 20px;
+}
+
+article img {
+	width: 30%;
+	float: left;
+	margin-top: 8em;
+	margin-left: 1.7em;
+
+}
+
+.preview {
+	float: right;
+	margin-right: 15%;
+	background: #fff;
+	width: 47%;
+	
+    text-align: justify;
+    
+
+}
+.t1, .preview{
+	height: 90px;
+}
+
+
+footer nav {
+	float: left;
+}
+
+footer {
+  margin-top: 20em;
+  width: 100%;
+  background-color: black;
+  opacity: 0.8;
+  padding: 10px ;
+  clear: both;
+}
+
+footer nav ul li {
+  margin-left: 20px;
+  list-style: none;
+}
+
+footer nav ul li a{
+
+  font-weight: 400;
+  font-size: 14px;
+  color: #fff;
+}
+
+.foot {	
+	text-align: center;
+	z-index: 1px;
+	color: white;
+}
+
